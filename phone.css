@@ -1,0 +1,18 @@
+@media only screen and (max-width : 622px) {
+    .section-one{
+        background: url(image/eid-ul-fitr-wallpaper\ \(1\).webp) no-repeat left center / cover;
+
+    }
+    .heading{
+        margin: 10px ;
+    }
+    .heading h1{
+        text-align: center;
+        font-size: 3rem;
+        color: white;
+    }   
+    .boxx{
+        margin-top: 20px  ;
+
+    }
+}

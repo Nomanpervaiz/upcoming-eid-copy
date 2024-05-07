@@ -1,0 +1,63 @@
+.section-one{
+    background: url(image/eid-ul-fitr-wallpaper\ \(1\).webp) no-repeat top center / cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.box-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boxx{
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px ;
+    margin-left: 3px;
+    margin-right: 3px;
+    width: 100px ;
+    height: 100px ;
+    color: white;
+    font-weight: 800;
+    font-family: "Sedan SC", serif;
+    background: rgb(255,16,46);
+background: radial-gradient(circle, rgb(252, 165, 52) 0%, rgba(34, 22, 22, 0.63) 100%);
+    border-radius: 10px ;
+    filter: drop-shadow(3px 2px 2px black);
+ 
+}
+.text-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#main-con {
+
+    text-shadow: 2px 2px 2px black;
+}
+.text{
+    
+    margin: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    width: 100px ;
+    height: 100px ;
+    color: white;
+}
+.heading{
+    display: flex;
+    
+    justify-content: center;
+    margin-top: 70px;
+}
+.heading>h1{
+    font-size: 3.5rem;
+    color: white;
+    font-family: "Sedan SC", serif;
+
+
+}
